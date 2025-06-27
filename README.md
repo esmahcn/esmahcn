@@ -1,37 +1,46 @@
+<!-- Optional Banner Image -->
+![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+Asma's+GitHub)
+
 # 👋 Hi, I'm Asma
 
-💻 Frontend Developer | 🌍 Algeria  
-🎨 I love building clean, modern apps using HTML, CSS, and JavaScript  
-🌤️ Creator of **WeatherNow** — a weather app with emoji and icon display  
-🎯 Currently learning React and improving UI/UX skills  
-📚 Passionate about open source, learning, and sharing
+💻 Frontend Developer | 🇩🇿 Algeria  
+🎨 I love building clean, modern apps using **HTML, CSS, JavaScript**, and public APIs  
+🌤️ Creator of **WeatherNow** — a stylish weather app with icons & emojis  
+🚀 Currently learning **React** and UI/UX  
+📚 Passionate about open source, learning, and building beautiful things
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-- 💡 HTML / CSS / JavaScript  
-- ⚙️ APIs (like OpenWeatherMap)  
-- 🧱 Bootstrap, Tailwind (learning)  
-- 🚀 Git & GitHub
+- HTML / CSS / JavaScript  
+- APIs (like OpenWeatherMap)  
+- Git & GitHub  
+- Bootstrap, Tailwind (learning)
 
 ---
 
 ## 📌 Featured Projects
 
 - 🔗 [WeatherNow](https://github.com/esmahcn/WeatherNow) – Real-time weather app  
-- 🔗 [XO Game](https://github.com/esmahcn/XO-game) – Classic Tic-Tac-Toe in JavaScript  
-- 🔗 [My Portfolio](https://github.com/esmahcn/portfolio) – Personal portfolio website
+- 🔗 [XO Game](https://github.com/esmahcn/XO-game) – Tic-Tac-Toe in JS  
+- 🔗 [Portfolio Website](https://github.com/esmahcn/portfolio) – Personal portfolio (coming soon?)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmahcn&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esmahcn&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esmahcn&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Connect With Me
 
-- 🌐 [GitHub](https://github.com/esmahcn)
-- 💙 [Facebook]([https://facebook.com/esma hacene](https://www.facebook.com/juve.ntina.1804/?locale=fr_FR))
+- 🐱 GitHub: [github.com/esmahcn](https://github.com/esmahcn)  
+- 💙 Facebook: [https://www.facebook.com/juve.ntina.1804/?locale=fr_FR)
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=esmahcn&style=flat-square&color=blue)
