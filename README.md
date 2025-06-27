@@ -1,5 +1,5 @@
 <!-- Optional Banner Image -->
-![Banner]/esmahcn/main/banner.png)
+![Banner]/((https://raw.githubusercontent.com/esmahcn/esmahcn/main/A_2D_digital_illustration_banner_for_Asma_displays.png)
 
 
 # 👋 Hi, I'm Asma
