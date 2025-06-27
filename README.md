@@ -1,5 +1,6 @@
 <!-- Optional Banner Image -->
-![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+Asma's+GitHub)
+![Banner](https://oaidalleapiprodscus.blob.core.windows.net/private/org-GuI0vG3a7sneX9qxnRgY0eC7/user-7hLCbKoDKPYtxxZgRtTkMQYk/img-omV3XVuV0RU9Q7EXz1kCwMgE.png?st=2024-06-27T11%3A59%3A26Z&se=2024-06-27T13%3A59%3A26Z&sp=r&sv=2021-08-06&sr=b&sig=lRpymK8w%2FCGRszK6jHp%2FO58vEdW9qtUogK5NaoslfNk%3D)
+
 
 # 👋 Hi, I'm Asma
 
